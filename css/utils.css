@@ -1,0 +1,9 @@
+.text_center{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.event_heading{
+    margin: 12px 0;
+}
